@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website
 
 A Ecommerce Website made with React.js Framework.
@@ -5,7 +6,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://ecommercewebsite-one-beta.vercel.app/
 
 ## Features
 
@@ -65,3 +66,6 @@ Just raise an issue, we will discuss it.
 If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
+=======
+# E-Commerce-Website
+>>>>>>> 82277572820f0910b3acd19e47614ec576bc45d5
